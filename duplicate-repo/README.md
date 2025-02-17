@@ -12,13 +12,8 @@ Your first assignment is to **duplicate this repository** into a new public repo
 ## ✅ **How to Duplicate This Repository**
 Follow these steps carefully to set up your own intern repository.
 
-### **1️⃣ Create a New Public Repository**
-1. Go to [GitHub](https://github.com/).
-2. Click on **New Repository**.
-3. Name it something like `your-username-intern-repo`.
-4. **Set it to Public** (so we can review it).
-5. **Initialize with a README and MIT License**.
-6. Copy the new repository URL.
+### **1️⃣ Fork this repository **
+1. Refer to https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 
 ### **2️⃣ Create a GitHub Personal Access Token**
 To allow the script to create issues, labels, and milestones, you need to generate a **fine-grained personal access token**.
@@ -28,7 +23,7 @@ To allow the script to create issues, labels, and milestones, you need to genera
 2. Click on **"Generate new token (fine-grained)"**.
 3. Call it something like "Clone Focus Bear onboarding repo"
 4. Set the following **permissions**:
-   - **Repository Access:** Select **"Select repositories"** and choose **only your new repository**.
+   - **Repository Access:** Select **"Select repositories"** and choose **only your new forked repository**.
 
 ![CleanShot 2025-02-15 at 08 38 42](https://github.com/user-attachments/assets/3b9b8caa-b710-4706-bb53-b3d846f2de7e)
 
