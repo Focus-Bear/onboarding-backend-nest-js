@@ -79,7 +79,7 @@ npm install
 
 #### **Run the Script**
 ```sh
-node duplicateRepo.js
+node duplicate-repo.js
 ```
 This will **copy all issues, labels, and milestones** into your new repository.
 
