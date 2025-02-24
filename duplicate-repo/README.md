@@ -47,8 +47,8 @@ To allow the script to create issues, labels, and milestones, you need to genera
 ### **3️⃣ Clone This Repository**
 Download the source repository to your local machine:
 ```sh
- git clone https://github.com/Focus-Bear/onboarding-frontend-react.git
- cd onboarding-frontend-react
+ git clone https://github.com/Focus-Bear/onboarding-backend-nest-js.git
+ cd onboarding-backend-nest-js
 ```
 
 ### **4️⃣ Run the Script to Duplicate Issues, Labels, and Milestones**
@@ -66,7 +66,7 @@ npm install
 #### **Create a `.env` File**
 1. Copy the example file:
    ```sh
-   cp .env.example .env
+   cp .env.sample .env
    ```
 2. Open `.env` and edit the following:
    ```ini
