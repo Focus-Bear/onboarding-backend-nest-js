@@ -20,10 +20,7 @@ const HEADERS = {
 const GITHUB_API = 'https://api.github.com/repos';
 
 // 🚨 **Milestones to exclude**
-const MILESTONES_TO_EXCLUDE = [
-  "7. Redux",
-  "5. React fundamentals"
-];
+const MILESTONES_TO_EXCLUDE = [];
 
 // Helper function to fetch paginated results
 async function fetchAll(url) {
