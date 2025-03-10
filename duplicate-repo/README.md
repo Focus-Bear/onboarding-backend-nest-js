@@ -71,7 +71,7 @@ npm install
 2. Open `.env` and edit the following:
    ```ini
    GITHUB_TOKEN=your_github_token_here
-   SOURCE_REPO=Focus-Bear/onboarding-frontend-react
+   SOURCE_REPO=Focus-Bear/onboarding-backend-nest-js
    DEST_REPO=your-username-intern-repo
    ```
    - Replace `your_github_token_here` with your **GitHub Personal Access Token**.
